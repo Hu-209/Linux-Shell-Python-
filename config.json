@@ -1,0 +1,21 @@
+{
+  "threshold": {
+    "cpu_usage": 80.0,
+    "mem_usage": 85.0,
+    "disk_usage": 90.0
+  },
+  "email": {
+    "sender": "719967049@qq.com",
+    "password": "viloaquyjzuxbbej",
+    "receiver": "719967049@qq.com",
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 587
+  },
+  "servers": [
+    {
+      "hostname": "我的服务器1",
+      "ip": "106.53.217.52",
+      "username": "root"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+psutil>=5.9.0
+paramiko>=3.4.0
+smtplib>=2.0.1
+email>=6.0.0
